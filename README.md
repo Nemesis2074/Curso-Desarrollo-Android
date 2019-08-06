@@ -5,20 +5,20 @@ Indice de actividades del curso:
 ## Layouts
 *Ejercicios relacionados con el uso de Layouts.*
 
-1. **Linear Layout**. [Ver Repo](https://github.com/Nemesis2074/AC01-LinearLayout)
-2. **Grid Layout**. [Ver Repo](https://github.com/Nemesis2074/AC02-GridLayout)
-3. **Relative Layout**. [Ver Repo](https://github.com/Nemesis2074/AC03-RelativeLayout)
-4. **Constraint Layout**. [Ver Repo](https://github.com/Nemesis2074/AC04-ConstraintLayout)
+1. **Linear Layout**. [Ir al Repo](https://github.com/Nemesis2074/AC01-LinearLayout)
+2. **Grid Layout**. [Ir al Repo](https://github.com/Nemesis2074/AC02-GridLayout)
+3. **Relative Layout**. [Ir al Repo](https://github.com/Nemesis2074/AC03-RelativeLayout)
+4. **Constraint Layout**. [Ir al Repo](https://github.com/Nemesis2074/AC04-ConstraintLayout)
 
 ## Kotlin.
 *Ejercicios relacionados con la sintaxis de Kotlin.*
 
-5. **Calculadora**. [Ver Repo](https://github.com/Nemesis2074/AC05-Calculator)
+5. **Calculadora**. [Ir al Repo](https://github.com/Nemesis2074/AC05-Calculator)
 
 ## Activities & Fragments
 *Ejercicios relacionados con el uso de actividades y fragmentos*
 
-6. **Activities**.
+6. **Activities**. [Ir al Repo](https://github.com/Nemesis2074/AC06-Activities)
 7. **Fragments**.
 
 ## Controles Avanzados
