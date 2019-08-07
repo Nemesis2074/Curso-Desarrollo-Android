@@ -20,6 +20,7 @@ Indice de actividades del curso:
 
 6. **Activities**. [Ir al Repo](https://github.com/Nemesis2074/AC06-Activities)
 7. **Fragments**.
+8. **Whos That Pokemon**. [Ir al Repo](https://github.com/Nemesis2074/AC08-Pokemon)
 
 ## Controles Avanzados
 *Ejercicios relacionados con el uso de los controles avanzados de Android para mostrar contenido en pantalla.*
