@@ -6,7 +6,11 @@ A continuación se encuentra el indice de ejercicios desarrolladores a lo largo 
 *Ejercicios relacionados con el uso de Layouts.*
 
 1. **Linear Layout**.
+
+    ![Linear 01](/images/linear_01.png)
+
     - Recursos [Descargar](https://drive.google.com/drive/folders/1OLs2PbGsdbz_6bhOgm6dHVstCnAQaSpx?usp=sharing)
+
     - Ejercicio Completado [Ir al Repo](https://github.com/Nemesis2074/AC01-LinearLayout)
     
 2. **Grid Layout**.
