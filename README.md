@@ -18,7 +18,7 @@ A continuación se encuentra el indice de ejercicios desarrollados a lo largo de
 2. **Grid Layout**.
 
     Ejercicio 01 | Ejercicio 02
-    ------------
+    ------------ | ------------
     ![Ejercicio 01](/images/linear_layout_03.png) | ![Ejercicio 02](/images/grid_layout_02.png)
 
     - Recursos [Descargar](https://drive.google.com/drive/folders/1mGOVU0_sDs5Kj4_ncS-8p4aVTUjLKl-0?usp=sharing)
