@@ -1,13 +1,13 @@
 # Curso: Desarrollo de Apps para Android con Kotlin
 
-A continuación se encuentra el indice de ejercicios desarrolladores a lo largo del curso de desarrollo de aplicaciones para Android.
+A continuación se encuentra el indice de ejercicios desarrollados a lo largo del curso de desarrollo de aplicaciones para Android.
 
 ## Layouts
 *Ejercicios relacionados con el uso de Layouts.*
 
 1. **Linear Layout**.
 
-    Ejercicio 01 | Ejercicio 02 | Ejercicio 03
+    1.01 | 1.02 | 1.03
     ------------ | ------------ | ------------
     ![Ejercicio 01](/images/linear_layout_01.png) | ![Ejercicio 02](/images/linear_layout_02.png) | ![Ejercicio 03](/images/linear_layout_03.png)
 
@@ -16,6 +16,11 @@ A continuación se encuentra el indice de ejercicios desarrolladores a lo largo 
     - Ejercicio Completado [Ir al Repo](https://github.com/Nemesis2074/AC01-LinearLayout)
     
 2. **Grid Layout**.
+
+    1.01
+    ------------
+    ![Ejercicio 01](/images/linear_layout_03.png)
+
     - Recursos [Descargar](https://drive.google.com/drive/folders/1mGOVU0_sDs5Kj4_ncS-8p4aVTUjLKl-0?usp=sharing)
     - Ejercicio Completado [Ir al Repo](https://github.com/Nemesis2074/AC02-GridLayout)
     
