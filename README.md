@@ -7,7 +7,7 @@ A continuación se encuentra el indice de ejercicios desarrollados a lo largo de
 
 1. **Linear Layout**.
 
-    1.01 | 1.02 | 1.03
+    Ejercicio 01 | Ejercicio 02 | Ejercicio 03
     ------------ | ------------ | ------------
     ![Ejercicio 01](/images/linear_layout_01.png) | ![Ejercicio 02](/images/linear_layout_02.png) | ![Ejercicio 03](/images/linear_layout_03.png)
 
@@ -17,18 +17,28 @@ A continuación se encuentra el indice de ejercicios desarrollados a lo largo de
     
 2. **Grid Layout**.
 
-    1.01
+    Ejercicio 01 | Ejercicio 02
     ------------
-    ![Ejercicio 01](/images/linear_layout_03.png)
+    ![Ejercicio 01](/images/linear_layout_03.png) | ![Ejercicio 02](/images/grid_layout_02.png)
 
     - Recursos [Descargar](https://drive.google.com/drive/folders/1mGOVU0_sDs5Kj4_ncS-8p4aVTUjLKl-0?usp=sharing)
     - Ejercicio Completado [Ir al Repo](https://github.com/Nemesis2074/AC02-GridLayout)
     
 3. **Relative Layout**. 
+
+    Ejercicio 01 | Ejercicio 02 | Ejercicio 03
+    ------------ | ------------ | ------------
+    ![Ejercicio 01](/images/relative_layout_01.png) | ![Ejercicio 02](/images/relative_layout_02.png) | ![Ejercicio 03](/images/relative_layout_03.png)
+
     - Recursos [Descargar](https://drive.google.com/drive/folders/1NKtqumRxfYHiykprGTlG40TSCVrz_4AM?usp=sharing)
     - Ejercicio Completado [Ir al Repo](https://github.com/Nemesis2074/AC03-RelativeLayout)
 
 4. **Constraint Layout**.
+
+    Ejercicio 01 | Ejercicio 02 | Ejercicio 03
+    ------------ | ------------ | ------------
+    ![Ejercicio 01](/images/relative_layout_01.png) | ![Ejercicio 02](/images/relative_layout_02.png) | ![Ejercicio 03](/images/relative_layout_03.png)
+
     - Recursos [Descargar](https://drive.google.com/drive/folders/1WSuUHvgNqGWShcbL5dC6bDu9MIrupKAM?usp=sharing)
     - Ejercicio Completado [Ir al Repo](https://github.com/Nemesis2074/AC04-ConstraintLayout)
 
