@@ -7,7 +7,9 @@ A continuación se encuentra el indice de ejercicios desarrolladores a lo largo 
 
 1. **Linear Layout**.
 
-    ![Linear 01](/images/linear_01.png)
+    Ejercicio 01 | Ejercicio 02 | Ejercicio 03
+    -------------------------------------------
+    ![Ejercicio 01](/images/linear_layout_01.png) | ![Ejercicio 02](/images/linear_layout_02.png) | ![Ejercicio 03](/images/linear_layout_03.png)
 
     - Recursos [Descargar](https://drive.google.com/drive/folders/1OLs2PbGsdbz_6bhOgm6dHVstCnAQaSpx?usp=sharing)
 
