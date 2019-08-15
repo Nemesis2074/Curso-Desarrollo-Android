@@ -6,19 +6,19 @@ A continuación se encuentra el indice de ejercicios desarrolladores a lo largo 
 *Ejercicios relacionados con el uso de Layouts.*
 
 1. **Linear Layout**.
-    - Recursos [Descargar](https://drive.google.com)
+    - Recursos [Descargar](https://drive.google.com/drive/folders/1OLs2PbGsdbz_6bhOgm6dHVstCnAQaSpx?usp=sharing)
     - Ejercicio Completado [Ir al Repo](https://github.com/Nemesis2074/AC01-LinearLayout)
     
 2. **Grid Layout**.
-    - Recursos [Descargar](https://drive.google.com)
+    - Recursos [Descargar](https://drive.google.com/drive/folders/1mGOVU0_sDs5Kj4_ncS-8p4aVTUjLKl-0?usp=sharing)
     - Ejercicio Completado [Ir al Repo](https://github.com/Nemesis2074/AC02-GridLayout)
     
 3. **Relative Layout**. 
-    - Recursos [Descargar](https://drive.google.com)
+    - Recursos [Descargar](https://drive.google.com/drive/folders/1NKtqumRxfYHiykprGTlG40TSCVrz_4AM?usp=sharing)
     - Ejercicio Completado [Ir al Repo](https://github.com/Nemesis2074/AC03-RelativeLayout)
 
 4. **Constraint Layout**.
-    - Recursos [Descargar](https://drive.google.com)
+    - Recursos [Descargar](https://drive.google.com/drive/folders/1WSuUHvgNqGWShcbL5dC6bDu9MIrupKAM?usp=sharing)
     - Ejercicio Completado [Ir al Repo](https://github.com/Nemesis2074/AC04-ConstraintLayout)
 
 ## Kotlin.
