@@ -17,9 +17,9 @@ A continuación se encuentra el indice de ejercicios desarrollados a lo largo de
     
 2. **Grid Layout**.
 
-    Ejercicio 01 | Ejercicio 02
-    ------------ | ------------
-    ![Ejercicio 01](/images/linear_layout_03.png) | ![Ejercicio 02](/images/grid_layout_02.png)
+    Ejercicio 01 | Ejercicio 02 | Ejercicio 03
+    ------------ | ------------ | ------------
+    ![Ejercicio 01](/images/grid_layout_01.png) | ![Ejercicio 02](/images/grid_layout_02.png) | ![Ejercicio 03](/images/grid_layout_03.png)
 
     - Recursos [Descargar](https://drive.google.com/drive/folders/1mGOVU0_sDs5Kj4_ncS-8p4aVTUjLKl-0?usp=sharing)
     - Ejercicio Completado [Ir al Repo](https://github.com/Nemesis2074/AC02-GridLayout)
@@ -47,36 +47,41 @@ A continuación se encuentra el indice de ejercicios desarrollados a lo largo de
 
 5. **Calculadora**. 
     - Recursos [Descargar](https://drive.google.com)
-    - Ejercicio Completado [Ir al Repo](https://github.com/Nemesis2074/AC05-Calculator)
+    - Ejercicio Completado [Ir al Repo](http://bit.ly/2Zj2KPG)
 
 ## Activities & Fragments
 *Ejercicios relacionados con el uso de actividades y fragmentos*
 
 6. **Activities**. 
     - Recursos [Descargar](https://drive.google.com)
-    - Ejercicio Completado [Ir al Repo](https://github.com/Nemesis2074/AC06-Activities)
+    - Ejercicio Completado [Ir al Repo](http://bit.ly/2Zj2KPG)
 
 7. **Fragments**. 
     - Recursos [Descargar](https://drive.google.com)
-    - Ejercicio Completado [Ir al Repo](https://github.com/Nemesis2074/AC06-Fragments)
+    - Ejercicio Completado [Ir al Repo](http://bit.ly/2Zj2KPG)
 
 8. **Who's That Pokemon**. 
     - Recursos [Descargar](https://drive.google.com)
-    - Ejercicio Completado [Ir al Repo](https://github.com/Nemesis2074/AC08-Pokemon)
+    - Ejercicio Completado [Ir al Repo](http://bit.ly/2Zj2KPG)
 
 ## Controles Avanzados
 *Ejercicios relacionados con el uso de los controles avanzados de Android para mostrar contenido en pantalla.*
 
 8. **ListView**.
     - Recursos [Descargar](https://drive.google.com)
+    - Ejercicio Completado [Ir al Repo](http://bit.ly/2Zj2KPG)
   
 9. **GridView**.
     - Recursos [Descargar](https://drive.google.com)
+    - Ejercicio Completado [Ir al Repo](http://bit.ly/2Zj2KPG)
+
 10. **RecyclerView**
     - Recursos [Descargar](https://drive.google.com)
+    - Ejercicio Completado [Ir al Repo](http://bit.ly/2Zj2KPG)
   
 11. **ViewPager**
     - Recursos [Descargar](https://drive.google.com)
+    - Ejercicio Completado [Ir al Repo](http://bit.ly/2Zj2KPG)
 
 ## Aplicación Final
 *Aplicación completa cuyo objetivo es aplicar los conocimientos obtenidos a lo largo del curso*
