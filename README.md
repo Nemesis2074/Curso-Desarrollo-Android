@@ -45,42 +45,42 @@ A continuación se encuentra el indice de ejercicios desarrollados a lo largo de
 ## Kotlin.
 *Ejercicios relacionados con la sintaxis de Kotlin.*
 
-5. **Calculadora**. 
-    - Recursos [Descargar](https://drive.google.com)
+5. **Calculator**. 
+    - Recursos [Descargar](http://bit.ly/2Zj2KPG)
     - Ejercicio Completado [Ir al Repo](http://bit.ly/2Zj2KPG)
 
 ## Activities & Fragments
 *Ejercicios relacionados con el uso de actividades y fragmentos*
 
 6. **Activities**. 
-    - Recursos [Descargar](https://drive.google.com)
+    - Recursos [Descargar](http://bit.ly/2Zj2KPG)
     - Ejercicio Completado [Ir al Repo](http://bit.ly/2Zj2KPG)
 
 7. **Fragments**. 
-    - Recursos [Descargar](https://drive.google.com)
+    - Recursos [Descargar](http://bit.ly/2Zj2KPG)
     - Ejercicio Completado [Ir al Repo](http://bit.ly/2Zj2KPG)
 
 8. **Who's That Pokemon**. 
-    - Recursos [Descargar](https://drive.google.com)
+    - Recursos [Descargar](http://bit.ly/2Zj2KPG)
     - Ejercicio Completado [Ir al Repo](http://bit.ly/2Zj2KPG)
 
 ## Controles Avanzados
 *Ejercicios relacionados con el uso de los controles avanzados de Android para mostrar contenido en pantalla.*
 
 8. **ListView**.
-    - Recursos [Descargar](https://drive.google.com)
+    - Recursos [Descargar](http://bit.ly/2Zj2KPG)
     - Ejercicio Completado [Ir al Repo](http://bit.ly/2Zj2KPG)
   
 9. **GridView**.
-    - Recursos [Descargar](https://drive.google.com)
+    - Recursos [Descargar](http://bit.ly/2Zj2KPG)
     - Ejercicio Completado [Ir al Repo](http://bit.ly/2Zj2KPG)
 
 10. **RecyclerView**
-    - Recursos [Descargar](https://drive.google.com)
+    - Recursos [Descargar](http://bit.ly/2Zj2KPG)
     - Ejercicio Completado [Ir al Repo](http://bit.ly/2Zj2KPG)
   
 11. **ViewPager**
-    - Recursos [Descargar](https://drive.google.com)
+    - Recursos [Descargar](http://bit.ly/2Zj2KPG)
     - Ejercicio Completado [Ir al Repo](http://bit.ly/2Zj2KPG)
 
 ## Aplicación Final
