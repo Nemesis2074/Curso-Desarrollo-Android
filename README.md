@@ -55,11 +55,11 @@ A continuación se encuentra el indice de ejercicios desarrollados a lo largo de
 
 6. **Activities**. 
     - Recursos [Descargar](https://drive.google.com/drive/folders/1GjAWQ3pS1owFTHX0fXYbf2hYHl3gmsAd?usp=sharing)
-    - Ejercicio Completado [Ir al Repo](http://bit.ly/2Zj2KPG)
+    - Ejercicio Completado [Ir al Repo](https://github.com/Nemesis2074/AC06-Activities)
 
 7. **Fragments**. 
     - Recursos [Descargar](https://drive.google.com/drive/folders/1VIqkVM_kmGmPeukkCOCXwlbKY-hzECrO?usp=sharing)
-    - Ejercicio Completado [Ir al Repo](http://bit.ly/2Zj2KPG)
+    - Ejercicio Completado [Ir al Repo](https://github.com/Nemesis2074/AC07-Fragments)
 
 8. **Who's That Pokemon**. 
     - Recursos [Descargar](https://drive.google.com/drive/folders/1QMR2gWddWBBz0qyYUxBUmOMmSAP6PwDA?usp=sharing)
