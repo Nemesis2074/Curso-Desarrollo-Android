@@ -69,19 +69,23 @@ A continuación se encuentra el indice de ejercicios desarrollados a lo largo de
 *Ejercicios relacionados con el uso de los controles avanzados de Android para mostrar contenido en pantalla.*
 
 8. **ListView**.
-    - Recursos [Descargar](http://bit.ly/2Zj2KPG)
+    - Recursos [Descargar](https://drive.google.com/drive/folders/1G9ExgtsTVcrO8JXTIACHKlPsH_-Kp91N?usp=sharing)
     - Ejercicio Completado [Ir al Repo](http://bit.ly/2Zj2KPG)
   
 9. **GridView**.
-    - Recursos [Descargar](http://bit.ly/2Zj2KPG)
+    - Servicio: [Ver JSON](https://mi-docencia-benv.web.app/demos/kitties.json)
     - Ejercicio Completado [Ir al Repo](http://bit.ly/2Zj2KPG)
 
 10. **RecyclerView**
-    - Recursos [Descargar](http://bit.ly/2Zj2KPG)
+    - Servicio: [Ver JSON](https://mi-docencia-benv.web.app/demos/contacts.json)
+    - Ejercicio Completado [Ir al Repo](http://bit.ly/2Zj2KPG)
+
+11. **World's Places**
+    - Servicio: [Ver JSON](https://mi-docencia-benv.web.app/demos/places.json)
     - Ejercicio Completado [Ir al Repo](http://bit.ly/2Zj2KPG)
   
-11. **ViewPager**
-    - Recursos [Descargar](http://bit.ly/2Zj2KPG)
+12. **ViewPager**
+    - Servicio: [Ver JSON](https://mi-docencia-benv.web.app/demos/places.json)
     - Ejercicio Completado [Ir al Repo](http://bit.ly/2Zj2KPG)
 
 ## Aplicación Final
