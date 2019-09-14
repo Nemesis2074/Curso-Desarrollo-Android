@@ -63,7 +63,7 @@ A continuación se encuentra el indice de ejercicios desarrollados a lo largo de
 
 8. **Who's That Pokemon**. 
     - Recursos [Descargar](https://drive.google.com/drive/folders/1QMR2gWddWBBz0qyYUxBUmOMmSAP6PwDA?usp=sharing)
-    - Ejercicio Completado [Ir al Repo](http://bit.ly/2Zj2KPG)
+    - Ejercicio Completado [Ir al Repo](https://github.com/Nemesis2074/AC08-Pokemon)
 
 ## Controles Avanzados
 *Ejercicios relacionados con el uso de los controles avanzados de Android para mostrar contenido en pantalla.*
