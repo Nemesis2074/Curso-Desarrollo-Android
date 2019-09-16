@@ -68,25 +68,30 @@ A continuación se encuentra el indice de ejercicios desarrollados a lo largo de
 ## Controles Avanzados
 *Ejercicios relacionados con el uso de los controles avanzados de Android para mostrar contenido en pantalla.*
 
-8. **ListView**.
+9. **ListView**.
     - Recursos [Descargar](https://drive.google.com/drive/folders/1G9ExgtsTVcrO8JXTIACHKlPsH_-Kp91N?usp=sharing)
     - Ejercicio Completado [Ir al Repo](https://github.com/Nemesis2074/AC09-ListView)
   
-9. **GridView**.
+10. **GridView**.
     - Servicio: [Ver JSON](https://mi-docencia-benv.web.app/demos/kitties.json)
+    - Ejercicio en Desarrollo [Ir al Repo](https://github.com/Nemesis2074/AC10-Working-GridViewDemo)
     - Ejercicio Completado [Ir al Repo](http://bit.ly/2Zj2KPG)
 
-10. **RecyclerView**
+11. **RecyclerView**
     - Servicio: [Ver JSON](https://mi-docencia-benv.web.app/demos/contacts.json)
     - Ejercicio Completado [Ir al Repo](http://bit.ly/2Zj2KPG)
 
-11. **World's Places**
+12. **World's Places**
     - Servicio: [Ver JSON](https://mi-docencia-benv.web.app/demos/places.json)
     - Ejercicio Completado [Ir al Repo](http://bit.ly/2Zj2KPG)
   
-12. **ViewPager**
+13. **ViewPager**
     - Servicio: [Ver JSON](https://mi-docencia-benv.web.app/demos/places.json)
     - Ejercicio Completado [Ir al Repo](http://bit.ly/2Zj2KPG)
 
 ## Aplicación Final
 *Aplicación completa cuyo objetivo es aplicar los conocimientos obtenidos a lo largo del curso*
+
+14. **Rotten Tomatoes**
+    - Recursos: 
+    - Servicios:  
