@@ -70,7 +70,7 @@ A continuación se encuentra el indice de ejercicios desarrollados a lo largo de
 
 8. **ListView**.
     - Recursos [Descargar](https://drive.google.com/drive/folders/1G9ExgtsTVcrO8JXTIACHKlPsH_-Kp91N?usp=sharing)
-    - Ejercicio Completado [Ir al Repo](http://bit.ly/2Zj2KPG)
+    - Ejercicio Completado [Ir al Repo](https://github.com/Nemesis2074/AC09-ListView)
   
 9. **GridView**.
     - Servicio: [Ver JSON](https://mi-docencia-benv.web.app/demos/kitties.json)
