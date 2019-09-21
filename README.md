@@ -105,8 +105,8 @@ A continuación se encuentra el indice de ejercicios desarrollados a lo largo de
 
     - Diseño:
 
-    ![En Cines](/images/movies_screen_01.png)
-    ![Próximamente](/images/movies_screen_02.png)
-    ![Noticias](/images/movies_screen_03.png)
-    ![Detalle 01](/images/movies_screen_04.png)
-    ![Detalle 02](/images/movies_screen_05.png)
+    ![En Cines](/images/movies_screen_01.png | width=200)
+    ![Próximamente](/images/movies_screen_02.png | width=200)
+    ![Noticias](/images/movies_screen_03.png | width=200)
+    ![Detalle 01](/images/movies_screen_04.png | width=200)
+    ![Detalle 02](/images/movies_screen_05.png | width=200)
