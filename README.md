@@ -94,11 +94,11 @@ A continuación se encuentra el indice de ejercicios desarrollados a lo largo de
 
 14. **Rotten Tomatoes**
     - Servicios:
+
+        Los servicios se encuentran bajo el dominio: https://androiddevcourse.000webhostapp.com
+
         Servicio   | URL         |  Método | Parámetros | Comentarios                   |
         -----------|-------------|---------|------------|-------------------------------|
         Noticias   | /news.php   | GET     |            |                               |
-        -----------|-------------|---------|------------|-------------------------------|
         Películas  | /movies.php | POST    | type       | 1 = En Cines 2 = Próximamente |
-        -----------|-------------|---------|------------|-------------------------------|
-    - Recursos: 
-    - Servicios:  
+    - Recursos: [Descargar](https://drive.google.com/drive/folders/1GzW1wKFAGLgk28cB3ecJCLEjKhiKcwbx?usp=sharing)
