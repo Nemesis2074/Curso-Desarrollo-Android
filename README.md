@@ -93,5 +93,12 @@ A continuación se encuentra el indice de ejercicios desarrollados a lo largo de
 *Aplicación completa cuyo objetivo es aplicar los conocimientos obtenidos a lo largo del curso*
 
 14. **Rotten Tomatoes**
+    - Servicios:
+        Servicio   | URL         |  Método | Parámetros | Comentarios                   |
+        -----------|-------------|---------|------------|-------------------------------|
+        Noticias   | /news.php   | GET     |            |                               |
+        -----------|-------------|---------|------------|-------------------------------|
+        Películas  | /movies.php | POST    | type       | 1 = En Cines 2 = Próximamente |
+        -----------|-------------|---------|------------|-------------------------------|
     - Recursos: 
     - Servicios:  
