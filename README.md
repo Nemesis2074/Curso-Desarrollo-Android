@@ -92,38 +92,37 @@ A continuación se encuentra el indice de ejercicios desarrollados a lo largo de
 ## Aplicación Final
 *Aplicación completa cuyo objetivo es aplicar los conocimientos obtenidos a lo largo del curso*
 
+**Secciones:**
 
-    - **Secciones:**
+Las secciones que deberá tener la App son:
 
-        Las secciones que deberá tener la App son:
+    - En Cines.
+    - Próximamente.
+    - Noticias
+    - Detalle de Película.
+    - Detalle de Noticia.
 
-        - En Cines.
-        - Próximamente.
-        - Noticias
-        - Detalle de Película.
-        - Detalle de Noticia.
+**Servicios:**
 
-    - **Servicios:**
+La información para cada sección se deberá obtener de los siguientes servicios:
 
-        La información para cada sección se deberá obtener de los siguientes servicios:
+Servicio   | URL         |  Método | Parámetros | Comentarios                   |
+-----------|-------------|---------|------------|-------------------------------|
+Noticias   | [/news.php](https://androiddevcourse.000webhostapp.com/news.php)   | GET     |            |                               |
+Películas  | [/movies.php](https://androiddevcourse.000webhostapp.com/movies.php) | POST    | type       | 1 = En Cines 2 = Próximamente |
 
-        Servicio   | URL         |  Método | Parámetros | Comentarios                   |
-        -----------|-------------|---------|------------|-------------------------------|
-        Noticias   | [/news.php](https://androiddevcourse.000webhostapp.com/news.php)   | GET     |            |                               |
-        Películas  | [/movies.php](https://androiddevcourse.000webhostapp.com/movies.php) | POST    | type       | 1 = En Cines 2 = Próximamente |
+Los servcios se encuentran bajo el dominio: https://androiddevcourse.000webhostapp.com
 
-        Los servcios se encuentran bajo el dominio: https://androiddevcourse.000webhostapp.com
+**Recursos:**
 
-    - Recursos: 
+Los iconos necesarios para la App se enceuntran aquí: [Descargar](https://drive.google.com/drive/folders/1GzW1wKFAGLgk28cB3ecJCLEjKhiKcwbx?usp=sharing)
 
-        Los iconos necesarios para la App se enceuntran aquí: [Descargar](https://drive.google.com/drive/folders/1GzW1wKFAGLgk28cB3ecJCLEjKhiKcwbx?usp=sharing)
+**Pantallas:**
 
-    - **Pantallas:**
+Estas son las pantallas de ejemplo de las secciones que deberá tener la App:
 
-        Estas son las pantallas de ejemplo de las secciones que deberá tener la App:
-
-        <img src="/images/movies_screen_01.png" width="200"> 
-        <img src="/images/movies_screen_02.png" width="200">
-        <img src="/images/movies_screen_03.png" width="200">
-        <img src="/images/movies_screen_04.png" width="200">
-        <img src="/images/movies_screen_05.png" width="200">
+<img src="/images/movies_screen_01.png" width="200"> 
+<img src="/images/movies_screen_02.png" width="200">
+<img src="/images/movies_screen_03.png" width="200">
+<img src="/images/movies_screen_04.png" width="200">
+<img src="/images/movies_screen_05.png" width="200">
