@@ -136,8 +136,29 @@ Películas:
         "audience_score": 50,
         "audience_total_ratings": 624,
         "audience_average_rating": 3.09
-    },
+    }
 
+Noticias:
+
+    {
+        "id": 1,
+        "date": 1568973600,
+        "title": "Kit Harington ya está rodando 'The Eternals', su entrada en el Universo Cinematográfico Marvel",
+        "summary": "Tras algunos rumores, en la D23 de Disney se confirmó que Kit Harington se unía al ya de por sí
+    impresionante elenco de 'Eternals'.",
+        "thumbnail": "https://img.ecartelera.com/noticias/fotos/56400/56482/1.jpg",
+        "content": "Tras algunos rumores, en la D23 de Disney se confirmó que Kit Harington se unía al ya de por sí
+    impresionante elenco de 'Eternals'. Marvel confirmó que el actor de 'Game Of Thrones' daría vida a Dane Whitman, quien
+    es conocido como Black Knight en el universo de la casa de las ideas. Ahora, y gracias a la publicación de una de sus
+    compañeras de reparto, hemos podido ver el nuevo look que el actor lucirá en esta nueva aventura cinematográfica.\n\nHa
+    sido la actriz Salma Hayek la que nos ha sorprendido a todos con su publicación en Instagram junto a Harington. Hayek
+    será la encargada de interpretar a la líder de los Eternos, Ajak. Originariamente este miembro es representado como un
+    hombre, pero para la cinta el estudio ha decidido cambiar el género de este personaje de cómics y ofrecérselo a la
+    intérprete mexicana\n\n\"No puedo creer que esté trabajando con Jon Snow! Kit eres el mejor!!!\", escribía entusiasmada
+    la actriz. Gracias a esta instantánea, podemos confirmar que el mítico guarda de la noche se ha unido ya al rodaje de la
+    próxima cinta de Marvel. 'Eternals' nos cuenta la historia de un grupo de super-humanos creados genéticamente que tienen
+    el don de la larga vida. La cinta se estrenará el 6 de noviembre de 2020."
+    }
 
 **Recursos:**
 
