@@ -114,6 +114,31 @@ Películas  | [/movies.php](https://androiddevcourse.000webhostapp.com/movies.ph
 
 Los servcios se encuentran bajo el dominio: https://androiddevcourse.000webhostapp.com
 
+**Estructura JSON**
+
+Películas:
+
+    {
+        "id": 1,
+        "name": "Ad Astra",
+        "director": "James Gray",
+        "synopsis": "Astronaut Roy McBride (Brad Pitt) travels to the outer edges of the solar system to find his missing father
+        and unravel a mystery that threatens the survival of our planet. His journey will uncover secrets that challenge the
+                nature of human existence and our place in the cosmos.",
+        "poster":
+        "https://resizing.flixster.com/DFPIRWYX3mL7y9pryZ0LSEJTuqM=/fit-in/200x296.2962962962963/v1.bTsxMzEzMTgyNjtwOzE4MTk2OzEyMDA7OTAwOzEzNTA",
+        "trailer": "https://www.youtube.com/watch?v=gaf-zgnlNLg",
+        "preview":
+        "https://resizing.flixster.com/WIWyWZ10_Bd6OFzFhdybdyIWtMc=/720x290/v1.bjsyMzI5Njk0O2o7MTgyNTE7MTIwMDs0MDk2OzE3MTY",
+        "average_rating": 7.68,
+        "fresh": 191,
+        "rotten": 42,
+        "audience_score": 50,
+        "audience_total_ratings": 624,
+        "audience_average_rating": 3.09
+    },
+
+
 **Recursos:**
 
 Los iconos necesarios para la App se enceuntran aquí: [Descargar](https://drive.google.com/drive/folders/1GzW1wKFAGLgk28cB3ecJCLEjKhiKcwbx?usp=sharing)
