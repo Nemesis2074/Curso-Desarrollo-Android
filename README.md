@@ -99,6 +99,14 @@ A continuación se encuentra el indice de ejercicios desarrollados a lo largo de
 
         Servicio   | URL         |  Método | Parámetros | Comentarios                   |
         -----------|-------------|---------|------------|-------------------------------|
-        Noticias   | /news.php   | GET     |            |                               |
-        Películas  | /movies.php | POST    | type       | 1 = En Cines 2 = Próximamente |
+        Noticias   | [/news.php](https://androiddevcourse.000webhostapp.com/news.php)   | GET     |            |                               |
+        Películas  | [/movies.php]((https://androiddevcourse.000webhostapp.com/movies.php)) | POST    | type       | 1 = En Cines 2 = Próximamente |
     - Recursos: [Descargar](https://drive.google.com/drive/folders/1GzW1wKFAGLgk28cB3ecJCLEjKhiKcwbx?usp=sharing)
+
+    - Diseño:
+
+    ![En Cines](/images/movies_screen_01.png)
+    ![Próximamente](/images/movies_screen_02.png)
+    ![Noticias](/images/movies_screen_03.png)
+    ![Detalle 01](/images/movies_screen_04.png)
+    ![Detalle 02](/images/movies_screen_05.png)
