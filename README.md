@@ -160,6 +160,21 @@ Noticias:
     el don de la larga vida. La cinta se estrenará el 6 de noviembre de 2020."
     }
 
+**Validaciones**
+
+Para el caso del Tomatómetro:
+
+- Podrído: Si el procentaje es menor al 60%
+- Fresco: Si el porcentaje es mayor o igual al 60%
+- Certificado Frescura: Si e porcentaje es mayor al 75% y el número total de reviews es mayor a 40
+- No disponible: Si no tiene reviews
+
+Para el caso de la Audiencia:
+
+- Podrído: Si el procentaje es menor al 60%
+- Fresco: Si el porcentaje es mayor o igual al 60%
+- No disponible: Si no tiene reviews
+
 **Recursos:**
 
 Los iconos necesarios para la App se enceuntran aquí: [Descargar](https://drive.google.com/drive/folders/1GzW1wKFAGLgk28cB3ecJCLEjKhiKcwbx?usp=sharing)
