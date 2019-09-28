@@ -74,21 +74,14 @@ A continuación se encuentra el indice de ejercicios desarrollados a lo largo de
   
 10. **GridView**.
     - Servicio: [Ver JSON](https://mi-docencia-benv.web.app/demos/kitties.json)
-    - Ejercicio en Desarrollo [Ir al Repo](https://github.com/Nemesis2074/AC10-Working-GridViewDemo)
-    - Ejercicio Completado [Ir al Repo](http://bit.ly/2Zj2KPG)
+    - Ejercicio Completado [Ir al Repo](https://github.com/Nemesis2074/AC10-Working-GridViewDemo)
 
 11. **RecyclerView**
     - Servicio: [Ver JSON](https://mi-docencia-benv.web.app/demos/contacts.json)
-    - Ejercicio en Desarrollo [Ir al Repo](https://github.com/Nemesis2074/AC11-Working-RecyclerView)
-    - Ejercicio Completado [Ir al Repo](http://bit.ly/2Zj2KPG)
-
-12. **World's Places**
-    - Servicio: [Ver JSON](https://mi-docencia-benv.web.app/demos/places.json)
-    - Ejercicio Completado [Ir al Repo](http://bit.ly/2Zj2KPG)
+    - Ejercicio Completado [Ir al Repo](https://github.com/Nemesis2074/AC11-Working-RecyclerView)
   
 13. **ViewPager**
-    - Servicio: [Ver JSON](https://mi-docencia-benv.web.app/demos/places.json)
-    - Ejercicio Completado [Ir al Repo](http://bit.ly/2Zj2KPG)
+    - Ejercicio Completado [Ir al Repo](https://github.com/Nemesis2074/AC12-ViewPager)
 
 ## Aplicación Final
 *Aplicación completa cuyo objetivo es aplicar los conocimientos obtenidos a lo largo del curso*
